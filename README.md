@@ -9,5 +9,5 @@ I created this repo to track my **daily practice**, improve my **problem-solving
 - This repo is meant to document my **learning journey**, not final polished projects.  
 
 ## 🚀 Progress  
-✅ Completed Challenges: 11  
+✅ Completed Challenges: 20  
 📅 Updated daily as I continue solving new problems.
